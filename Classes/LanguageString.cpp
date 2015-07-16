@@ -36,10 +36,13 @@ String* LanguageString::getLanguageString(const char* strName)
 					strings->retain();
 					break;
 				}
-
+//http://stackoverflow.com/questions/10697436/cocos2d-x-localization-simplified-traditional-chinese
+//For Android , modify cocos2d/cocos/platform/android/CCApplication-android.cpp
+//For iOS     , modify cocos2d/cocos/platform/ios/CCApplication-ios.mm
+//For Linux   , modify cocos2d/cocos/platform/linux/CCApplication-linux.cpp
 			case kLanguageChinese:
 				{
-					strings = Dictionary::createWithContentsOfFile("string_zh.plist");
+					strings = Dictionary::createWithContentsOfFile("string_zh_TW.plist");
 					strings->retain();
 					break;
 				}

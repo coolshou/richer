@@ -3,6 +3,7 @@
 
 #define winSize Director::getInstance()->getWinSize()
 #include "cocos2d.h"
+#include "SimpleAudioEngine.h"
 #include "LanguageString.h"
 #include "ConstUtil.h"
 USING_NS_CC;
