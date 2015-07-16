@@ -8,16 +8,25 @@ http://blog.csdn.net/lideguo1979/article/details/44168701
 
 # Develop guide (under linux)
  * Download and Install cocos2d-x (https://github.com/cocos2d/cocos2d-x)
+
     Clone the repo from GitHub.
+    
      $ git clone https://github.com/cocos2d/cocos2d-x.git
+     
     After cloning the repo, please execute download-deps.py to download and install dependencies.
+    
      $ cd cocos2d-x
+     
      cocos2d-x $ python download-deps.py
+     
     After running download-deps.py.
+    
      cocos2d-x $ git submodule update --init
 
  * Get richer source
- * 
+  
+   $ git clone https://github.com/coolshou/richer.git
+
  Build and run a new project for Android
 
 $ cocos run -p android -j 4
