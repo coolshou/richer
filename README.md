@@ -22,6 +22,18 @@ http://blog.csdn.net/lideguo1979/article/details/44168701
     After running download-deps.py.
     
      cocos2d-x $ git submodule update --init
+     
+    setup cocos2d-x
+    
+     cocos2d-x $ ./setup.py
+     
+     cocos2d-x $ source ~/.bashrc
+     
+    Create new empty cocos2d-x project
+    
+     $ cocos new MyGame -p com.your_company.mygame -l cpp -d NEW_PROJECTS_DIR
+
+     $ cd NEW_PROJECTS_DIR/MyGame
 
  * Get richer source
   
@@ -52,6 +64,3 @@ Then
 $ cd NEW_PROJECTS_DIR/MyGame
 
 $ cocos run -p linux
-
- 
- * 
