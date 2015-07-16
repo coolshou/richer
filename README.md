@@ -17,28 +17,31 @@ http://blog.csdn.net/lideguo1979/article/details/44168701
      cocos2d-x $ git submodule update --init
 
  * Get richer source
+ * 
  Build and run a new project for Android
 
 $ cocos run -p android -j 4
 
-Build and run a new project for iOS
+ Build and run a new project for iOS
 
 $ cocos run -p ios
 
-Build and run a new project for OSX
+ Build and run a new project for OSX
 
 $ cocos run -p mac
 
-Build and run a new project for Linux
+ Build and run a new project for Linux
 
 if you never run cocos2d-x on Linux, you need to install all dependencies by the script in cocos2d/build/install-deps-linux.sh
 
 $ cd cocos2d-x/build
+
 $ ./install-deps-linux.sh
 
 Then
 
 $ cd NEW_PROJECTS_DIR/MyGame
+
 $ cocos run -p linux
 
  
