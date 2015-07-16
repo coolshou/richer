@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>single_game</key>
+    <string>单人游戏</string>
+
+    <key>multi_game</key>
+    <string>多人游戏</string>
+
+    <key>music_on</key>
+    <string>开启音效</string>
+
+    <key>music_off</key>
+    <string>关闭音效</string>	
+	
+    <key>load_game</key>
+    <string>载入游戏</string>	
+	
+    <key>quit_game</key>
+    <string>退出游戏</string>	
+	
+    <key>ok</key>
+    <string>确认</string>		
+	
+    <key>cancel</key>
+    <string>取消</string>		
+		
+    <key>dialog_title</key>
+    <string>提示消息</string>		
+		
+    <key>dialog_content</key>
+    <string>你要退出吗？</string>		
+			
+    <key>buy_land_msg</key>
+    <string>购买或升级这块土地吗？需要花费 $ </string>
+
+    <key>tax_rebates</key>
+    <string>政府鼓励投资，返还税金10000</string>
+	
+    <key>pay_taxes</key>
+    <string>政府严查账务，补交税金20000</string>	
+
+	<key>loss_strength</key>
+    <string>喝到假酒，上吐下泻，体力耗光</string>
+
+	<key>physical_recovery</key>
+    <string>吃了大补丸，体力恢复</string>
+	
+	<key>investment_dividends</key>
+    <string>投资获利，分红20000</string>
+
+	<key>investment_loss</key>
+    <string>投资失败，亏损30000</string>	
+	
+	
+	<key>storm_skill_up</key>
+    <string>暴风骤雨技能升级</string>	
+
+	<key>step_skill_up</key>
+    <string>随心步技能升级</string>	
+
+	<key>transfer_skill_up</key>
+    <string>巧取豪夺技能升级</string>		
+	
+	<key>player_hurt</key>
+    <string>角色受伤，需要住院</string>		
+	
+	<key>in_hospital</key>
+    <string>房屋主人住院中，免收过路费</string>		
+
+	<key>in_hospital_remain</key>
+    <string>角色住院中，还剩</string>	
+	
+	<key>rich_day</key>
+    <string>天</string>		
+	
+	<key>strength_up</key>
+    <string>体力增加</string>
+	
+	<key>pick_ball</key>
+    <string>捡到珍珠，资金增加</string>		
+	
+	<key>select_lottery_title</key>
+    <string>请选择一个彩票号码</string>		
+	
+    <key>buy_ok</key>
+    <string>购买</string>		
+	
+    <key>buy_lottery</key>
+    <string>购买彩票，花费</string>	
+	
+	<key>publish_lottery</key>
+    <string>大富翁彩票开奖</string>	
+	
+	<key>rich_technology</key>
+    <string>富翁科技</string>	
+	
+	<key>rich_oil</key>
+    <string>两桶石油</string>	
+	
+	<key>icbc</key>
+    <string>爱存不存</string>	
+
+	<key>huatuo_medicine</key>
+    <string>华佗医疗</string>
+
+	<key>demolition_construction</key>
+    <string>拆哪建设</string>	
+	
+	<key>stock_code</key>
+    <string>股票代码</string>
+	
+	<key>stock_name</key>
+    <string>股票名称</string>	
+	
+	<key>stock_nowprice</key>
+    <string>当前价格</string>	
+	
+	<key>stock_dealprice</key>
+    <string>成交价格</string>	
+	
+	<key>stock_percent</key>
+    <string>涨跌幅度</string>	
+	
+	<key>stock_store</key>
+    <string>持仓数量</string>	
+	
+	<key>player_money</key>
+    <string>您当前资金：</string>	
+	
+	<key>no_money_buy_stock</key>
+    <string>资金不足，无法购买该股票</string>	
+	
+	<key>buy</key>
+    <string>买入</string>		
+	
+	<key>sell</key>
+    <string>卖出</string>
+	
+	<key>shares</key>
+    <string>股</string>
+	
+	<key>rain</key>
+    <string>暴风骤雨</string>	
+	
+	<key>yours_is_mine</key>
+    <string>巧取豪夺</string>	
+	
+	<key>goby_heart</key>
+    <string>随心步</string>	
+	
+	<key>grade</key>
+    <string>等级</string>	
+	
+	<key>lost_strength</key>
+    <string>耗费体力</string>		
+	
+	<key>down_grade</key>
+    <string>可以降低房屋等级</string>		
+	
+	<key>goby_heart_info</key>
+    <string>想走几步走几步</string>		
+	
+	<key>yours_is_mine_info</key>
+    <string>你的就是我的</string>		
+
+	<key>your_strength_is_low</key>
+    <string>体力值不足，无法使用本技能</string>		
+
+	<key>save_sucess</key>
+    <string>游戏保存成功</string>	
+
+	<key>save_fail</key>
+    <string>游戏保存失败</string>			
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="22" height="22" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="beach" tilewidth="32" tileheight="32">
+  <image source="beach.png" width="704" height="736"/>
+ </tileset>
+ <layer name="ground" width="22" height="22">
+  <data encoding="base64" compression="zlib">
+   eJwNwwOUEAYAANBrNVQLW7Ztuy7btm3bNu6ybdu2bdu+tLX99/6PERAQENNYxjaOcY1nfBOY0EQmNolJTWZyU5jSVKY2jWlNZ3ozmNFMZjaLWc1mdnOY01zmNo95zWd+CxhoQQtZ2CIWtZjFLWFJS1naMpa1nOWtYEUrWdkqVrWa1a1hTWtZ2zrWtZ71bWBDG9nYJja1mc1tYUtb2do2trWd7e1gRzvZ2S52tZvd7WFPe9nbPva1n/0d4EAHOdghDnWYwx3hSEc52jGOdZzjneBEJxlksJOd4lSnOd0ZznSWs53jXOc53wUudJGLXeJSl7ncFa50latd41rXud4NbnSTm93iVre53R3udJe73eNe97nfAx70kIc94lGPedwTnvSUpz3jWc953gte9JKXveJVr3ndG970lre9413ved8HPvSRj33iU5/53Be+9JWvfeNb3/neD370k58N8Ytf/eZ3f/iP//rT/wwIhb8Y2jD+6m/+7h+GNZzh/dMIRjSSkf3Lv41iVKMZ3RjGNJaxjWNc4xnfBCY0kYlNYlKTmdwUpjSVqU1jWtOZ3gxmNJOZzWJWs5ndHOY0l7nNY17zmd8CBlrQQha2iEUtZnFLWNJSlraMZS1neStY0UpWtopVrWZ1a1jTWta2jnWtZ30b2NBGNraJTW1mc1vY0la2to1tbWd7O9jRTna2i13tZnd72NNe9raPfe1nfwc40EEOdohDHeZwRzjSUY52jGMd53gnONFJBhnsZKc41WlOd4YzneVs5zjXec53gQtd5GKXuNRlLneFK13late41nWud4Mb3eRmt7jVbW53hzvd5W73uNd97veABz3kYY941GMe94QnPeVpz3jWc573ghe95GWveNVrXveGN73lbe9413ve94EPfeRjn/jUZz73hS995Wvf+NZ3vveDH/3kZ0P84le/+d3/ARvj+g4=
+  </data>
+ </layer>
+ <layer name="way" width="22" height="22">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDEfACcRMUMyCxEbGrFCaFMBGpDpke9iJVE8qYKGSGnRAjFvYGTD9iBzWHAyY4Y0rHJDVcJDhHlzyhPSx4nELLP1gAyB/oKcpQvaSGw+cDJhhDQojNgbi09ZQAQDdxwDj
+  </data>
+ </layer>
+ <layer name="land" width="22" height="22">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDCRgJAIzINGDARByCzZ5YtxPrBpSw4XYMCbkFmrEBal6canH53Zi1FE7jrDFCz6xgQTUCgtqAwCGHAA3
+  </data>
+ </layer>
+</map>

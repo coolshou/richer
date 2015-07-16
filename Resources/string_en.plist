@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>single_game</key>
+    <string>Single Game</string>
+
+    <key>multi_game</key>
+    <string>Multi Game</string>
+
+    <key>music_on</key>
+    <string>Music On</string>
+
+    <key>music_off</key>
+    <string>Music Off</string>	
+	
+    <key>quit_game</key>
+    <string>Quit Game</string>	
+	
+    <key>ok</key>
+    <string>Ok</string>		
+	
+    <key>cancel</key>
+    <string>Cancel</string>		
+		
+    <key>dialog_title</key>
+    <string>Alert Message</string>		
+		
+    <key>dialog_content</key>
+    <string>Do you want to quit?</string>		
+			
+    <key>buy_land_msg</key>
+    <string>Buy or update the land？need $ </string>
+
+    <key>tax_rebates</key>
+    <string>The government encourages investment, tax rebates 10000</string>
+	
+    <key>pay_taxes</key>
+    <string>Government scrutiny of accounts, pay taxes 20000</string>	
+
+	<key>loss_strength</key>
+    <string>To drink alcohol, diarrhea, loss of light strength</string>
+
+	<key>physical_recovery</key>
+    <string>Eat cake, physical recovery</string>
+	
+	<key>investment_dividends</key>
+    <string>Investment profits, dividends 20000</string>
+
+	<key>investment_loss</key>
+    <string>Investment failure, loss 30000</string>	
+	
+	<key>in_hospital</key>
+    <string>land owner is in hospital ,no pay tolls</string>		
+</dict>
+</plist>
